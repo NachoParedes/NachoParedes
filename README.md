@@ -30,7 +30,7 @@ Analista de Datos apasionado por transformar datos crudos en arquitecturas estru
 | Proyecto | Descripción | Tech Stack | Repositorio |
 | :--- | :--- | :--- | :---: |
 | **Premier League Analytics** | Pipeline ETL para extracción, limpieza y almacenamiento de estadísticas de fútbol, conectado a dashboards analíticos. | `Python` `Pandas` `MySQL` `Power BI` | [Ver Proyecto](https://github.com/NachoParedes/premier-league-analytics) |
-| **FitLife Gym Management** | Modelado relacional completo (DER/MER), creación de esquemas DDL/DML, triggers y reportes analíticos para gestión operativa. | `MySQL` `SQL` `Power BI` `C#` | [Ver Proyecto](https://github.com/NachoParedes/fitlife-gym-management) |
+| **FitLife Gym Management** | Modelado relacional completo (DER/MER), creación de esquemas DDL/DML, triggers y reportes analíticos para gestión operativa. | `MySQL` `SQL` `Power BI` | [Ver Proyecto](https://github.com/NachoParedes/fitlife-gym-management) |
 
 ---
 
